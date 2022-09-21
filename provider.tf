@@ -8,7 +8,7 @@ terraform {
   }
 }
 terraform{
-required_providers  {
+providers  {
   aws = {
   region  = "ap-south-1"
   profile = "default"
