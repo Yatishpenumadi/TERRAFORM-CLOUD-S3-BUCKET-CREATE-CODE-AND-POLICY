@@ -12,4 +12,4 @@ required provider  {
   region  = "ap-south-1"
   profile = "default"
 }
-
+}
