@@ -7,7 +7,7 @@ terraform {
     }
   }
 }
-provider "hashicorp/aws" {
+provider "hashicorpaws" {
   region  = "ap-south-1"
   profile = "default"
 }
