@@ -16,7 +16,7 @@ version = "~>3.0"
 
 }
 
-provider aws {
+ aws {
 
 region = "ap-south-1"
 
