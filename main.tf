@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "my s9 bucket" {
+ provider "my-s9-bucket" {
  region = "ap-south-1"
  profile = "default"
  }
