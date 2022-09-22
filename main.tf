@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "storagebucket" {
+ provider "awss3bucket" {
  region = "ap-south-1"
  profile = "default"
  }
