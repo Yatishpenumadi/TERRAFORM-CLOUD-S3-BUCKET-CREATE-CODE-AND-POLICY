@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "storage_bucket" {
+ provider "storagebucket" {
  region = "ap-south-1"
  profile = "default"
  }
