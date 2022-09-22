@@ -16,7 +16,7 @@ version = "~>3.0"
 
 }
 
- aws = {
+ aws  {
 source = "hashicorp/aws"
 region = "ap-south-1"
 
