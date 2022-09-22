@@ -15,6 +15,7 @@ version = "~>3.0"
 }
 
 }
+terraform {
 required_providers {
  aws  {
 source = "hashicorp/aws"
