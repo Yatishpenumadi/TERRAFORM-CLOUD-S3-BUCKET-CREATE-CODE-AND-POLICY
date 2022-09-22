@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "awss3bucket" {
+ provider "mys9bucket" {
  region = "ap-south-1"
  profile = "default"
  }
