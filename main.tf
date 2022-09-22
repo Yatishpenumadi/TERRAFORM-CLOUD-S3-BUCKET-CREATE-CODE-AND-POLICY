@@ -15,7 +15,7 @@ version = "~>3.0"
 }
 
 }
-
+required_provider{
  aws  {
 source = "hashicorp/aws"
 region = "ap-south-1"
