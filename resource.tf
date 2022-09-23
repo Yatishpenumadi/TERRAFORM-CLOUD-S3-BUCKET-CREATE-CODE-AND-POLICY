@@ -14,7 +14,7 @@ Environment = "Dev"
 
 
 
-data "aws_s3_bucket" "all" {
+data "aws_s3_bucket" "PUBLIC" {
 
 bucket = "terraform-scriptbucket"
 
