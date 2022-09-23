@@ -1,4 +1,4 @@
-variable "ap-south-1"  {
+var = "ap-south-1"  {
 
-  type        = string
+  
 }
