@@ -4,7 +4,7 @@ bucket = "my-sss-ttos-bucket"
 
 tags = {
 
-Name = "MY BUCKET"
+Name = "MYBUCKET"
 
 Environment = "Dev"
 
