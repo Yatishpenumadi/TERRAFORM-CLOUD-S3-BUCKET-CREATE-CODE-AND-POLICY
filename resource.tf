@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "sss-bucket" {
+resource "aws_s3_bucket" "sar-bucket" {
 
 bucket = "my-sss-tatoo-bucket"
 
