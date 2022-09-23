@@ -2,7 +2,7 @@
 
 
 
-variable "awsregion" {
+variable "aws_region" {
 
 type = string
 
