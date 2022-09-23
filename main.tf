@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "hashicorpaws" {
+ provider "aws" {
  region = "ap-south-1"
  profile = "default"
  }
