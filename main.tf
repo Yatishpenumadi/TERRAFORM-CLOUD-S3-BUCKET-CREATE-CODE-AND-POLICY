@@ -7,7 +7,7 @@ version = "~>3.0"
 }
 }
 }
- provider "aws" {
+ provider "mycloud" {
  region = "ap-south-1"
  profile = "default"
  }
