@@ -23,7 +23,7 @@ version = "~> 4.24.0"
 
 provider "aws" {
 
-region = var.aws_region
+region = var.awsregion
 
 }
 
