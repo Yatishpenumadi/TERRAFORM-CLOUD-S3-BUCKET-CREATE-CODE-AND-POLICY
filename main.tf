@@ -8,11 +8,11 @@ version = "~>4.31.0"
 }
 }
  provider "aws"   {
-  {
+  
 "region" = "ap-south-1"
  "profile" = "default"
  
- } 
+ 
  }
 resource "aws_s3_bucket" "storage-bucket" {
 bucket = "my-s9-bucket"
