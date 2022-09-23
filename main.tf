@@ -8,7 +8,7 @@ version = "~>4.31.0"
 }
 }
  provider aws {
- aws = {
+ a = {
  region = "ap-south-1"
  profile = "default"
  
