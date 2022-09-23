@@ -1,4 +1,4 @@
-var = "ap-south-1"  {
+variable = "ap-south-1"  {
 
   
 }
