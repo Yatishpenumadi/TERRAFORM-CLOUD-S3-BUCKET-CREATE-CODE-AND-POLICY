@@ -8,8 +8,8 @@ version = "~>4.31.0"
 }
 }
  provider "aws"   {
- "aws" = {
- "region" = "ap-south-1"
+ aws = {
+"region" = "ap-south-1"
  "profile" = "default"
  
  } 
